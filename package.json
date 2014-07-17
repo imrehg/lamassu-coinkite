@@ -1,7 +1,7 @@
 {
   "name": "lamassu-coinkite",
   "version": "0.0.1",
-  "description": "Lamassu Coinlkite ticker",
+  "description": "Lamassu Coinkite ticker",
   "main": "lib/index.js",
   "scripts": {
     "test": "tap ./test"
